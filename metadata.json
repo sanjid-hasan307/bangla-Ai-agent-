@@ -1,0 +1,6 @@
+{
+  "name": "Bangla AI",
+  "description": "Bangla AI Receptionist SaaS platform for automated customer call handling, appointment bookings, order lookups, and business voice intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
